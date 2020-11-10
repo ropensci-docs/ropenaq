@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  articles/graphics_of_pm_25_concentrations_in_several_countries: graphics_of_pm_25_concentrations_in_several_countries.html
+  articles/mapping_openaq_monitors: mapping_openaq_monitors.html
+  articles/ropenaq: ropenaq.html
+last_built: 2020-12-19T21:21Z
+urls:
+  reference: https://docs.ropensci.org/ropenaq/reference
+  article: https://docs.ropensci.org/ropenaq/articles
+

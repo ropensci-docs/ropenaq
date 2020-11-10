@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0fcad9c1feb94243b64c4b0553be22619e8b188e",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2020-11-10 13:11:53",
+    "files": 3,
+    "merge": false,
+    "message": "new version\n"
+  },
+  "remote": "https://github.com/ropensci/ropenaq",
+  "pkg": "ropenaq"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/aq_cities.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/aq_countries.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/aq_latest.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/aq_locations.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/aq_measurements.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/reference/ropenaq-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/articles/articles/graphics_of_pm_25_concentrations_in_several_countries.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/articles/articles/mapping_openaq_monitors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ropenaq/articles/articles/ropenaq.html</loc>
+  </url>
+</urlset>
